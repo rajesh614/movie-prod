@@ -1,0 +1,19 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "this is node program",
+  "main": "Index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "node",
+    "developer"
+  ],
+  "author": "Rajesh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
